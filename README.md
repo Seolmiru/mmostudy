@@ -1,1 +1,1 @@
-# mmostudy
+# This is a project to study game development
