@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\testRPG\\testRPG\\testRPG.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\TestProgram\\TestProgram\\TestProgram.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\testRPG\\testRPG\\testRPG.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\TestProgram\\TestProgram\\TestProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\testRPG\\testRPG\\testRPG.csproj",
-        "projectName": "testRPG",
-        "projectPath": "c:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\testRPG\\testRPG\\testRPG.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\TestProgram\\TestProgram\\TestProgram.csproj",
+        "projectName": "TestProgram",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\TestProgram\\TestProgram\\TestProgram.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\testRPG\\testRPG\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\mmostudy\\.vs\\TestProgram\\TestProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

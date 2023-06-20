@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\bin\Debug\net6.0\testRPG.exe
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\bin\Debug\net6.0\testRPG.deps.json
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\bin\Debug\net6.0\testRPG.runtimeconfig.json
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\bin\Debug\net6.0\testRPG.dll
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\bin\Debug\net6.0\testRPG.pdb
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.dll
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\refint\testRPG.dll
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.pdb
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\testRPG.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\mmostudy\.vs\testRPG\testRPG\obj\Debug\net6.0\ref\testRPG.dll

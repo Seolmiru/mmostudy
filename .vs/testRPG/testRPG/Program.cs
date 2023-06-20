@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace CSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int hp;
+
+            hp = 100;
+
+            Console.WriteLine(hp);
+        }
+    }
+}
